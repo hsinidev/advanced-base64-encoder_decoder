@@ -8,7 +8,7 @@ Doodax is a high-performance, privacy-focused web application built for develope
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-2ea44f?style=for-the-badge&logo=google-chrome)](https://doodax.com)
 
-**URL:** [https://doodax.com](https://doodax.com) *(Opens in a new tab)*
+**URL:** [https://doodax.com](https://doodax.com/tools/advanced-base64-encoder_decoder/index.html) *(Opens in a new tab)*
 
 ---
 
