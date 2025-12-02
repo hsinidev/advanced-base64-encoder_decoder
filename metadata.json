@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Base64 Encoder/Decoder",
+  "description": "A comprehensive, single-file web application for Base64 encoding and decoding with advanced options like character set selection, line-by-line processing, file handling UI, and a live mode. Features a cosmic dark theme and extensive SEO content.",
+  "requestFramePermissions": []
+}
